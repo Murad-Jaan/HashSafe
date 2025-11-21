@@ -165,9 +165,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Inspired by professional cybersecurity tools
 
 ## 📧 Contact
-
-Your Name - [@YourTwitter](https://twitter.com/YourTwitter)
-
 Project Link: [https://github.com/YourUsername/HashSafe](https://github.com/YourUsername/HashSafe)
 
 ---
