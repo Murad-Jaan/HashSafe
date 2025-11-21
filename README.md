@@ -165,7 +165,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Inspired by professional cybersecurity tools
 
 ## 📧 Contact
-Project Link: [https://github.com/YourUsername/HashSafe](https://github.com/YourUsername/HashSafe)
+Project Link: [https://github.com/Murad-Jaan/HashSafe](https://github.com/Murad-Jaan/HashSafe)
 
 ---
 
