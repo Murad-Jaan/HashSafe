@@ -139,10 +139,6 @@ Edit `utils/hash_utils.py` to add/remove algorithms from `get_all_algorithms()`.
 - **File integrity**: Regular monitoring detects unauthorized modifications
 - **Leaked passwords**: Database should be updated regularly
 
-## 📊 Screenshots
-
-*Add screenshots of your application here*
-
 ## 🤝 Contributing
 
 Contributions are welcome! Please follow these steps:
